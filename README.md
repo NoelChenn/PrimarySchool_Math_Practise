@@ -4,3 +4,4 @@ Excel sheets made to generate math questions in random. Press F9 to refresh and 
 
 1. Multiplacation within 10 
 2. Addition within 100 
+3. Subtraction within 100
